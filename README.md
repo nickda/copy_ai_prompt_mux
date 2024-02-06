@@ -32,4 +32,4 @@ Run the script with Python:
 python3 prompt_mux.py
 ```
 
-The script will send a request to the Copy.ai API and print the status of the request. When the status changes to 'COMPLETE', it will print the output to you CLI, Markdown file and a PDF file.
+The script will send a request to the Copy.ai API and print the status of the request. When the status changes to 'COMPLETE', it will print the output to your shell, a Markdown file and a PDF file.
