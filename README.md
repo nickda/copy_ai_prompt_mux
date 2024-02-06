@@ -4,7 +4,7 @@ This Python script is used to interact with the Copy.ai API. It sends a request 
 
 ## Setup
 
-- Setup a virtual environment
+- Setup and activate a virtual environment:
 
 ```bash
 python3 -m venv venv
