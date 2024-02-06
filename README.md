@@ -1,6 +1,6 @@
 # Prompt Multiplexor
 
-This Python script is used to interact with the Copy.ai API. It sends a request to the API and outputs the response.
+This Python script is used to interact with the Copy.ai API. It sends a request to the API and outputs the response in several formats.
 
 ## Setup
 
