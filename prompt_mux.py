@@ -116,9 +116,10 @@ while True:
         if track_response_dict['data']['status'] == 'COMPLETE':
             output_dict = track_response_dict['data']['output']
             if 'use_prompt_input' in output_dict:
-                print("\n\n##############################")
-                print("########### OUTPUT ###########")
-                print("##############################")
+                print("\n\n")
+                # print("\n\n##############################")
+                # print("########### OUTPUT ###########")
+                # print("##############################")
                 print(output_dict['use_prompt_input'])
 
 
